@@ -8,7 +8,7 @@ const data = {
     anju: {
         fname: "anju",
         lname: "gopan",
-        dept: "Computer science and engineering",
+        dept: "CSE",
         NumberOfPhotos: 2,
     },
     poojalakshmi: {
@@ -28,6 +28,12 @@ const data = {
         lname:"mp",
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
-   }
+   },
+     jeethu: {
+        fname: "jeethu",
+        lname: "joshy",
+        dept: "Computer science and engineering",
+        NumberOfPhotos: 2,
+    }
 }
 export default data;
