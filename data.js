@@ -12,8 +12,8 @@ const data = {
         NumberOfPhotos: 2,
     },
     poojalakshmi: {
-        fname: "pooja",
-        lname: "lakshmi",
+        fname: "poojalakshmi",
+        lname: "pk",
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
     },
@@ -22,7 +22,7 @@ const data = {
         lname: "ks",
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
-    },
+    },  
     pooja: {
         fname:"pooja",
         lname:"mp",
