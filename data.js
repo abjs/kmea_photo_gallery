@@ -8,12 +8,12 @@ const data = {
     anju: {
         fname: "anju",
         lname: "gopan",
-        dept: "Computer science and engineering",
+        dept: "CSE",
         NumberOfPhotos: 2,
     },
     poojalakshmi: {
-        fname: "pooja",
-        lname: "lakshmi",
+        fname: "poojalakshmi",
+        lname: "pk",
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
     },
@@ -22,7 +22,7 @@ const data = {
         lname: "ks",
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
-    },
+    },  
     pooja: {
         fname:"pooja",
         lname:"mp",
@@ -34,5 +34,12 @@ const data = {
         lname:"menon",
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
+ },
+     jeethu: {
+        fname: "jeethu",
+        lname: "joshy",
+        dept: "Computer science and engineering",
+        NumberOfPhotos: 2,
+    }
 }
 export default data;
