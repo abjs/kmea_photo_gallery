@@ -29,6 +29,12 @@ const data = {
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
    },
+ athira: {
+        fname:"athira",
+        lname:"menon",
+        dept: "Computer science and engineering",
+        NumberOfPhotos: 2,
+ },
      jeethu: {
         fname: "jeethu",
         lname: "joshy",
