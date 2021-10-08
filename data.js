@@ -39,7 +39,7 @@ const data = {
         fname: "Maria",
         lname: "Ashigha",
         dept: "Computer science and engineering",
-        NumberOfPhotos: 1,
+        NumberOfPhotos: 2,
     }
 }
 export default data;
