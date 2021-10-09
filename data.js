@@ -41,5 +41,11 @@ const data = {
         dept: "computer science and engineering",
         NumberOfPhotos: 2,
     },    
+        thaniya: {
+        fname:"thaniya",
+        lname: "azhar",
+        dept: "vidyodaya",
+        NumberOfPhotos: 2,
+    }
   };
   export default data;
