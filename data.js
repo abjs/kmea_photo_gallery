@@ -46,6 +46,12 @@ const data = {
         lname: "azhar",
         dept: "vidyodaya",
         NumberOfPhotos: 2,
-    }
+    },
+     thaniya: {
+        fname:"Muhammed",
+        lname: "Shebeeb K M",
+        dept: "Electrical and Electronics Engineering",
+        NumberOfPhotos: 2,
+     }
   };
   export default data;
