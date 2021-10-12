@@ -52,6 +52,10 @@ const data = {
         lname: "Shebeeb K M",
         dept: "Electrical and Electronics Engineering",
         NumberOfPhotos: 2,
-     }
+     }, imrosh: {
+        fname:"k M Muhammed",
+        lname: "Imrosh",
+        dept: "Mechanical",
+        NumberOfPhotos: 3,
   };
   export default data;
