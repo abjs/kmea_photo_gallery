@@ -5,7 +5,7 @@ const data = {
     dept: "CSE",
     NumberOfPhotos: 2,
   },
-  pooj: {
+  poojalakshmi: {
     fname: "poojalakshmi",
     lname: "pk",
     dept: "Computer science and engineering",
@@ -45,6 +45,12 @@ const data = {
     fname: "thaniya",
     lname: "azhar",
     dept: "vidyodaya",
+    NumberOfPhotos: 2,
+  },
+  shebeeb: {
+    fname: "Muhammed",
+    lname: "Shebeeb K M",
+    dept: "Electrical and Electronics Engineering",
     NumberOfPhotos: 2,
   },
 };

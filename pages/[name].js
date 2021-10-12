@@ -31,7 +31,7 @@ export default function Main() {
         setPicPhone(itemsPhone)
     }, [NumberOfPhotos])
     return (
-        <>
+        <div className="name__app">
 
             <Head>
                 <title>{name}</title>
@@ -69,7 +69,7 @@ export default function Main() {
                     {picPhone}
                 </div>
             </div>
-        </>
+        </div>
 
     )
 }
