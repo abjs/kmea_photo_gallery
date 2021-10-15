@@ -63,6 +63,7 @@ const data = {
     fname: "Varun",
     lname: "Madhu",
     dept: "Mechanical",
-    NumberOfPhotos: nil,
+    NumberOfPhotos: 1,
+  }
 };
 export default data;
