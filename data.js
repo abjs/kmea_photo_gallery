@@ -70,6 +70,12 @@ const data = {
     lname: "Madhu",
     dept: "Mechanical",
     NumberOfPhotos: 1,
+  },
+   beegum: {
+    fname: "Fathima",
+    lname: "Beegum PJ",
+    dept: "Alumni",
+    NumberOfPhotos: 2,
   }
 };
 
