@@ -54,11 +54,10 @@ img:hover {
 
 .Name_main {
   background: white;
-  width: 150px;
   text-align: center;
-  height: 20px;
   text-transform: uppercase;
   border-radius: 30px;
+  padding: 2px;
 }
 
 html {

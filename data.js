@@ -29,7 +29,7 @@ const data = {
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
    },
-     jeethu: {
+   jeethu: {
         fname: "jeethu",
         lname: "joshy",
         dept: "Computer science and engineering",
@@ -40,6 +40,37 @@ const data = {
         lname: "Ashigha",
         dept: "Computer science and engineering",
         NumberOfPhotos: 2,
-    }
-}
+    },
+   mansoor: {
+    fname: "mansoor",
+    lname: "majeed",
+    dept: "computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  thaniya: {
+    fname: "thaniya",
+    lname: "azhar",
+    dept: "vidyodaya",
+    NumberOfPhotos: 2,
+  },
+  shebeeb: {
+    fname: "Muhammed",
+    lname: "Shebeeb K M",
+    dept: "Electrical and Electronics Engineering",
+    NumberOfPhotos: 2,
+  },
+  imrosh: {
+    fname: "k M Muhammed",
+    lname: "Imrosh",
+    dept: "Mechanical",
+    NumberOfPhotos: 3,
+  },
+  varun: {
+    fname: "Varun",
+    lname: "Madhu",
+    dept: "Mechanical",
+    NumberOfPhotos: 1,
+  } 
+};
+
 export default data;

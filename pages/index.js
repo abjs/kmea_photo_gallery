@@ -3,8 +3,6 @@ import Link from "next/link";
 import cuid from "cuid";
 import data from "../data";
 export default function Home() {
-  console.log(Object.values(data));
-
   return (
     <div className="main_bg">
       <Head>
@@ -17,16 +15,21 @@ export default function Home() {
         />
       </Head>
       <div className="container">
-        {Object.values(data).map((user_data) => {
+        {Object.keys(data).map((key) => {
+          console.log(key);
+          console.log(data[key]);
           return (
             <div key={cuid()}>
-              <Link href={`/${user_data.fname}`}>
+              <Link href={`/${key}`}>
                 <a>
                   <div className="Main_Page">
-                    <img src={`/${user_data.fname}/1.jpg`} alt={`${user_data.fname} ${user_data.lname}`} />
+                    <img
+                      src={`/${key}/1.jpg`}
+                      alt={`${data[key].fname} ${data[key].lname}`}
+                    />
                   </div>
                   <div className="Name_main">
-                    <h3>{`${user_data.fname} ${user_data.lname}`}</h3>
+                    <h3>{`${data[key].fname} ${data[key].lname}`}</h3>
                   </div>
                 </a>
               </Link>
