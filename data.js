@@ -59,5 +59,10 @@ const data = {
     dept: "Mechanical",
     NumberOfPhotos: 3,
   },
+  varun: {
+    fname: "Varun",
+    lname: "Madhu",
+    dept: "Mechanical",
+    NumberOfPhotos: nil,
 };
 export default data;
