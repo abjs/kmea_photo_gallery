@@ -105,7 +105,7 @@ const data = {
     lname: " Beevi K S",
     dept: " CSE",
     NumberOfphotos: 2,
-  }
+  },
 };
 
 export default data;
