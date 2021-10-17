@@ -82,6 +82,13 @@ const data = {
     lname: "Sabreen",
     dept: "Mechanical",
   },
+
+  suroor: {
+    fname: "M S",
+    lname: "Mohammed",
+    dept: "Industrial Instrumentation and Automation",
+    NumberOfPhotos: 2,
+  }
   farzana: {
     fname: "Farzana",
     lname: "Khareem",
