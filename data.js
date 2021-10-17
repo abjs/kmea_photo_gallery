@@ -76,7 +76,13 @@ const data = {
     lname: "Madhu",
     dept: "Mechanical",
     NumberOfPhotos: 1,
-  }
+  },
+  Roushath: {
+    fname: " Roushath",
+    lname:" Beevi K S",
+    dept: " CSE",
+    NumberOfphotos: 2,
+    }
 };
 
 export default data;
