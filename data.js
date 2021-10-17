@@ -77,12 +77,35 @@ const data = {
     dept: "Mechanical",
     NumberOfPhotos: 1,
   },
-  Roushath: {
+  sabreen: {
+    fname: "Sabreen Rafeek",
+    lname: "Sabreen",
+    dept: "Mechanical",
+  },
+  suroor: {
+    fname: "M S",
+    lname: "Mohammed",
+    dept: "Industrial Instrumentation and Automation",
+    NumberOfPhotos: 2,
+  },
+  farzana: {
+    fname: "Farzana",
+    lname: "Khareem",
+    dept: "Computer Science",
+    NumberOfPhotos: 2,
+  },
+  riswana: {
+    fname: "Riswana",
+    lname: "E A",
+    dept: "computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  roushath: {
     fname: " Roushath",
-    lname:" Beevi K S",
+    lname: " Beevi K S",
     dept: " CSE",
     NumberOfphotos: 2,
-    }
+  }
 };
 
 export default data;
