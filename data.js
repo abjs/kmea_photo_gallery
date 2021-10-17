@@ -81,6 +81,17 @@ const data = {
     fname: "Sabreen Rafeek",
     lname: "Sabreen",
     dept: "Mechanical",
+  },
+  farzana: {
+    fname: "Farzana",
+    lname: "Khareem",
+    dept: "Computer Science",
+    NumberOfPhotos: 2,
+  },
+  riswana: {
+    fname: "Riswana",
+    lname: "E A",
+    dept: "computer science and engineering",
     NumberOfPhotos: 2,
   }
 };
