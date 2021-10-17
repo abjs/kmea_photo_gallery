@@ -76,6 +76,12 @@ const data = {
     lname: "Madhu",
     dept: "Mechanical",
     NumberOfPhotos: 1,
+  },
+  sabreen: {
+    fname: "Sabreen Rafeek",
+    lname: "Sabreen",
+    dept: "Mechanical",
+    NumberOfPhotos: 2,
   }
 };
 
