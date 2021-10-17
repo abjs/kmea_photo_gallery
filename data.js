@@ -65,12 +65,6 @@ const data = {
     dept: "Electrical and Electronics Engineering",
     NumberOfPhotos: 2,
   },
-  imrosh: {
-    fname: "k M Muhammed",
-    lname: "Imrosh",
-    dept: "Mechanical",
-    NumberOfPhotos: 3,
-  },
   varun: {
     fname: "Varun",
     lname: "Madhu",
@@ -105,6 +99,12 @@ const data = {
     lname: " Beevi K S",
     dept: " CSE",
     NumberOfphotos: 2,
+  },
+  imrosh: {
+    fname: "k M Muhammed",
+    lname: "Imrosh",
+    dept: "Mechanical",
+    NumberOfPhotos: 3,
   },
 };
 
