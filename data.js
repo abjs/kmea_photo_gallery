@@ -72,12 +72,12 @@ const data = {
     NumberOfPhotos: 3,
   },
   varun: {
-    fname: "Varun", 
+    fname: "Varun",
     lname: "Madhu",
     dept: "Mechanical",
     NumberOfPhotos: 1,
   },
-    Riswana: {
+  riswana: {
     fname: "Riswana",
     lname: "E A",
     dept: "computer science and engineering",
