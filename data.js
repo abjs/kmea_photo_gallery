@@ -82,7 +82,7 @@ const data = {
     lname: "E A",
     dept: "computer science and engineering",
     NumberOfPhotos: 2,
-  },
+  }
 };
 
 export default data;
