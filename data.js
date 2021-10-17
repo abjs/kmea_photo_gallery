@@ -99,6 +99,12 @@ const data = {
     lname: "E A",
     dept: "computer science and engineering",
     NumberOfPhotos: 2,
+  },
+  roushath: {
+    fname: " Roushath",
+    lname: " Beevi K S",
+    dept: " CSE",
+    NumberOfphotos: 2,
   }
 };
 
