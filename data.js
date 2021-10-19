@@ -100,24 +100,24 @@ const data = {
     dept: " CSE",
     NumberOfphotos: 2,
   },
+  rizwan: {
+    fname: "Rizwan",
+    lname: " K Rahim",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
   imrosh: {
     fname: "k M Muhammed",
     lname: "Imrosh",
     dept: "Mechanical",
     NumberOfPhotos: 3,
   },
-  rizwan:{
-    fname: "Rizwan",
-    lname: " K Rahim",
-    dept:"CSE",
-    NumberOfPhotos:2,
-    },
   nujoom: {
     fname: "Nujoom",
     lname: "Rahman",
     dept: "Mechanical",
     NumberOfPhotos: 1,
-  }
+  },
 };
 
 export default data;
