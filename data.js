@@ -106,6 +106,12 @@ const data = {
     dept: "Mechanical",
     NumberOfPhotos: 3,
   },
+  rizwan:{
+    fname: "Rizwan",
+    lname: " K Rahim",
+    dept:"CSE",
+    NumberOfPhotos:2,
+    },
   nujoom: {
     fname: "Nujoom",
     lname: "Rahman",
