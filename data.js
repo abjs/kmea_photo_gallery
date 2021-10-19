@@ -106,6 +106,15 @@ const data = {
     dept: "Mechanical",
     NumberOfPhotos: 3,
   },
+  Nujoom: {
+
+    fname: "Nujoom",
+
+    lname: "Rahman",
+
+    dept: "Mechanical",
+
+    NumberOfPhotos: 1,
 };
 
 export default data;
