@@ -11,6 +11,12 @@ const data = {
     dept: "CSE",
     NumberOfPhotos: 2,
   },
+  akash: {
+    fname: "Akash",
+    lname: "Santhosh",
+    dept: "IT",
+    NumberOfPhotos: 2,
+  },
   beegum: {
     fname: "Fathima",
     lname: "Beegum PJ",
