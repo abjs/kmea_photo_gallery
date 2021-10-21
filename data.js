@@ -1,26 +1,14 @@
 const data = {
-  abin: {
-    fname: "abin",
-    lname: "joseph",
-    dept: "Computer science and engineering",
-    NumberOfPhotos: 2,
-  },
   anju: {
     fname: "anju",
     lname: "gopan",
     dept: "CSE",
     NumberOfPhotos: 2,
   },
-  akash: {
-    fname: "Akash",
-    lname: "Santhosh",
-    dept: "IT",
-    NumberOfPhotos: 2,
-  },
-  beegum: {
-    fname: "Fathima",
-    lname: "Beegum PJ",
-    dept: "Alumni",
+  riswana: {
+    fname: "Riswana",
+    lname: "E A",
+    dept: "computer science and engineering",
     NumberOfPhotos: 2,
   },
   poojalakshmi: {
@@ -35,10 +23,10 @@ const data = {
     dept: "Computer science and engineering",
     NumberOfPhotos: 2,
   },
-  pooja: {
-    fname: "pooja",
-    lname: "mp",
-    dept: "Computer science and engineering",
+  thaniya: {
+    fname: "thaniya",
+    lname: "azhar",
+    dept: "vidyodaya",
     NumberOfPhotos: 2,
   },
   jeethu: {
@@ -53,53 +41,14 @@ const data = {
     dept: "Computer science and engineering",
     NumberOfPhotos: 2,
   },
-  mansoor: {
-    fname: "mansoor",
-    lname: "majeed",
-    dept: "computer science and engineering",
-    NumberOfPhotos: 2,
-  },
-  thaniya: {
-    fname: "thaniya",
-    lname: "azhar",
-    dept: "vidyodaya",
-    NumberOfPhotos: 2,
-  },
-  shebeeb: {
-    fname: "Muhammed",
-    lname: "Shebeeb K M",
-    dept: "Electrical and Electronics Engineering",
-    NumberOfPhotos: 2,
-  },
-  varun: {
-    fname: "Varun",
-    lname: "Madhu",
-    dept: "Mechanical",
-    NumberOfPhotos: 1,
-  },
-  sabreen: {
-    fname: "Sabreen Rafeek",
-    lname: "Sabreen",
-    dept: "Mechanical",
-  },
-  suroor: {
-    fname: "M S",
-    lname: "Mohammed",
-    dept: "Industrial Instrumentation and Automation",
-    NumberOfPhotos: 2,
-  },
+
   farzana: {
     fname: "Farzana",
     lname: "Khareem",
     dept: "Computer Science",
     NumberOfPhotos: 2,
   },
-  riswana: {
-    fname: "Riswana",
-    lname: "E A",
-    dept: "computer science and engineering",
-    NumberOfPhotos: 2,
-  },
+
   roushath: {
     fname: " Roushath",
     lname: " Beevi K S",
@@ -112,11 +61,66 @@ const data = {
     dept: "CSE",
     NumberOfPhotos: 2,
   },
+  suroor: {
+    fname: "M S",
+    lname: "Mohammed",
+    dept: "Industrial Instrumentation and Automation",
+    NumberOfPhotos: 2,
+  },
+  sabreen: {
+    fname: "Sabreen Rafeek",
+    lname: "Sabreen",
+    dept: "Mechanical",
+  },
+  beegum: {
+    fname: "Fathima",
+    lname: "Beegum PJ",
+    dept: "Alumni",
+    NumberOfPhotos: 2,
+  },
+  pooja: {
+    fname: "pooja",
+    lname: "mp",
+    dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  shebeeb: {
+    fname: "Muhammed",
+    lname: "Shebeeb K M",
+    dept: "Electrical and Electronics Engineering",
+    NumberOfPhotos: 2,
+  },
+  abin: {
+    fname: "abin",
+    lname: "joseph",
+    dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  varun: {
+    fname: "Varun",
+    lname: "Madhu",
+    dept: "Mechanical",
+    NumberOfPhotos: 1,
+  },
+
+  mansoor: {
+    fname: "mansoor",
+    lname: "majeed",
+    dept: "computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+
   imrosh: {
     fname: "k M Muhammed",
     lname: "Imrosh",
     dept: "Mechanical",
     NumberOfPhotos: 3,
+  },
+  akash: {
+    fname: "Akash",
+    lname: "Santhosh",
+    dept: "IT",
+    NumberOfPhotos: 2,
   },
   nujoom: {
     fname: "Nujoom",

@@ -1,5 +1,5 @@
 {
-  "name": "yasin",
+  "name": "kmea_photo_gallery",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,23 +11,29 @@
     "html": "next export",
     "deploy": "netlify deploy --prod",
     "image": "node compressImages",
-    "dp": "yarn build && yarn html && yarn deploy"
+    "dp": "yarn build && yarn html && yarn deploy",
+    "format": "prettier --write src/**/*.{js,ts,tsx,css}  ./*.{ts,js,json,md}"
   },
   "dependencies": {
     "@netlify/plugin-nextjs": "^3.7.1",
     "cuid": "^2.1.8",
-    "gifsicle": "^5.2.0",
-    "jpegtran-bin": "^5.0.2",
     "next": "11.0.1",
-    "pngquant-bin": "^6.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-awesome-reveal": "^3.8.1",
+    "react-dom": "17.0.2",
+    "react-reveal": "^1.2.2"
   },
   "devDependencies": {
+    "autoprefixer": "^10.3.7",
     "compress-images": "^1.9.9",
     "eslint": "7.31.0",
     "eslint-config-next": "11.0.1",
+    "gifsicle": "^5.2.0",
+    "jpegtran-bin": "^5.0.2",
     "netlify": "^8.0.0",
-    "next-sitemap": "^1.6.140"
+    "next-sitemap": "^1.6.140",
+    "pngquant-bin": "^6.0.0",
+    "postcss": "^8.3.10",
+    "tailwindcss": "^2.2.17"
   }
 }
