@@ -128,6 +128,12 @@ const data = {
     dept: "Mechanical",
     NumberOfPhotos: 1,
   },
+  Ashique: {
+    fname: "Ashique",
+    lname: "Sherief",
+    dept: "Computer"
+    NumberOfPhotos: 2,
+  },
 };
 
 export default data;
