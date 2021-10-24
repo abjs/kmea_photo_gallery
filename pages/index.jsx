@@ -4,7 +4,7 @@ import Link from "next/link";
 import cuid from "cuid";
 import { Fragment } from "react";
 import { Fade } from "react-awesome-reveal";
-import Zoom from 'react-reveal/Zoom';
+import Zoom from "react-reveal/Zoom";
 import data from "../data";
 export default function Home() {
   return (
@@ -31,7 +31,7 @@ export default function Home() {
               </Link>
               <Link href={`/${name}`}>
                 <a className="">
-                  <Zoom cascade delay={500} >
+                  <Zoom cascade delay={500}>
                     <p className="animate-pulse p-2 mt-2 bg-black text-xl font-bold text-white uppercase shadow-xl rounded-xl text-center hover:animate-bounce">
                       {name}
                     </p>

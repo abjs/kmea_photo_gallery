@@ -102,24 +102,10 @@ const data = {
     dept: "Mechanical",
     NumberOfPhotos: 1,
   },
-
   mansoor: {
     fname: "mansoor",
     lname: "majeed",
     dept: "computer science and engineering",
-    NumberOfPhotos: 2,
-  },
-
-  imrosh: {
-    fname: "k M Muhammed",
-    lname: "Imrosh",
-    dept: "Mechanical",
-    NumberOfPhotos: 3,
-  },
-  akash: {
-    fname: "Akash",
-    lname: "Santhosh",
-    dept: "IT",
     NumberOfPhotos: 2,
   },
   nujoom: {
@@ -128,10 +114,22 @@ const data = {
     dept: "Mechanical",
     NumberOfPhotos: 1,
   },
-  Ashique: {
+  ashique: {
     fname: "Ashique",
     lname: "Sherief",
-    dept: "Computer"
+    dept: "Computer",
+    NumberOfPhotos: 3,
+  },
+  imrosh: {
+    fname: "K M Muhammed",
+    lname: "Imrosh",
+    dept: "Mechanical",
+    NumberOfPhotos: 3,
+  },
+  akash: {
+    fname: "Akash",
+    lname: "Santhosh",
+    dept: "IT",
     NumberOfPhotos: 2,
   },
 };

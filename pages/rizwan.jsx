@@ -1,8 +1,8 @@
-import UserImageComponent from '../components/image.of.a.user'
+import UserImageComponent from "../components/image.of.a.user";
 export default function Rizwan() {
   return (
     <div>
-      <UserImageComponent name="rizwan"  />
+      <UserImageComponent name="rizwan" />
     </div>
-  )
+  );
 }

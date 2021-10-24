@@ -4,7 +4,7 @@ import { useRouter } from "next/router";
 import cuid from "cuid";
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import Zoom from 'react-reveal/Zoom';
+import Zoom from "react-reveal/Zoom";
 import { Fade } from "react-awesome-reveal";
 export default function Main() {
   const router = useRouter();
@@ -38,7 +38,6 @@ export default function Main() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-
       <div className="text-center flex justify-between capitalize w-full bg-black p-4 text-white font-medium  h-[10vh] text-xl">
         <Link href="/">
           <a className="w-16  h-16 bg-white">
@@ -46,16 +45,16 @@ export default function Main() {
           </a>
         </Link>
         <div className="pl-2">
-          <Zoom cascade delay={500} >
+          <Zoom cascade delay={500}>
             <h1>
               {data["thaniya"]?.fname} {data["thaniya"]?.lname}
             </h1>
           </Zoom>
-          <Zoom cascade delay={500} >
+          <Zoom cascade delay={500}>
             <p>{data["thaniya"]?.dept} School</p>
           </Zoom>
         </div>
-        <div/>
+        <div />
       </div>
       <div className="grid justify-center w-screen gap-5 p-5 items-center h-[90vh] overflow-x-hidden xl:grid-cols-2 ">
         {pic}

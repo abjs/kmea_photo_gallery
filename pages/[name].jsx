@@ -1,4 +1,3 @@
-
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import UserImageComponent from "../components/image.of.a.user";

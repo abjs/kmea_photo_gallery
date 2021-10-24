@@ -1,8 +1,8 @@
-import UserImageComponent from '../components/image.of.a.user'
+import UserImageComponent from "../components/image.of.a.user";
 export default function Anju() {
   return (
     <div>
-      <UserImageComponent name="anju"  />
+      <UserImageComponent name="anju" />
     </div>
-  )
+  );
 }

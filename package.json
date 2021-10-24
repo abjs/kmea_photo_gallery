@@ -12,7 +12,7 @@
     "deploy": "netlify deploy --prod",
     "image": "node compressImages",
     "dp": "yarn build && yarn html && yarn deploy",
-    "format": "prettier --write src/**/*.{js,ts,tsx,css}  ./*.{ts,js,json,md}"
+    "format": "prettier --write ./pages/*.{jsx,css}  ./*.{ts,js,json,md}"
   },
   "dependencies": {
     "@netlify/plugin-nextjs": "^3.7.1",
