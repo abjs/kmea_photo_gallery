@@ -1,14 +1,14 @@
 const data = {
+  abin: {
+    fname: "abin",
+    lname: "joseph",
+    dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
   anju: {
     fname: "anju",
     lname: "gopan",
     dept: "CSE",
-    NumberOfPhotos: 2,
-  },
-  riswana: {
-    fname: "Riswana",
-    lname: "E A",
-    dept: "computer science and engineering",
     NumberOfPhotos: 2,
   },
   poojalakshmi: {
@@ -23,16 +23,41 @@ const data = {
     dept: "Computer science and engineering",
     NumberOfPhotos: 2,
   },
-  thaniya: {
-    fname: "thaniya",
-    lname: "azhar",
-    dept: "vidyodaya",
+  pooja: {
+    fname: "pooja",
+    lname: "mp",
+    dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  athira: {
+    fname: "athira",
+    lname: "menon",
+    dept: "Computer science and engineering",
     NumberOfPhotos: 2,
   },
   jeethu: {
     fname: "jeethu",
     lname: "joshy",
     dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+
+  kashish: {
+    fname: "kashish",
+    lname: "s shah",
+    dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  riswana: {
+    fname: "Riswana",
+    lname: "E A",
+    dept: "computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  thaniya: {
+    fname: "thaniya",
+    lname: "azhar",
+    dept: "vidyodaya",
     NumberOfPhotos: 2,
   },
   ashigha: {
@@ -48,7 +73,6 @@ const data = {
     dept: "Computer Science",
     NumberOfPhotos: 2,
   },
-
   roushath: {
     fname: " Roushath",
     lname: " Beevi K S",
@@ -134,5 +158,4 @@ const data = {
     NumberOfPhotos: 2,
   },
 };
-
 export default data;
