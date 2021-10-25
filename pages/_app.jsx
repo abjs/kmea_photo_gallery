@@ -15,10 +15,11 @@ function MyApp({ Component, pageProps }) {
         <meta name="viewport" content="viewport-fit=cover" />
         <meta
           name="keywords"
-          content="Abin,Abin Joseph,YASIN MEHMOOD MK,shal"
+          content="KMEA , KMEA Engineering College , KMEA PHOTO GALLERY"
         />
         <meta name="author" content="Abin Joseph" />
         <meta name="robots" content="index, follow" />
+        <meta name="google-site-verification" content="6MS1hQ67jC9zPO38hXm7njrs8pojzwASFcz3h9xX_Oc" />
       </Head>
       <Component {...pageProps} />
     </>
