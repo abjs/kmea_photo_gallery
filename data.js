@@ -133,6 +133,13 @@ const data = {
     dept: "IT",
     NumberOfPhotos: 2,
   },
+  Farhana: {
+    fname: "Farhana",
+    lname: "shirin  K N",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
+  
 };
 
 export default data;
