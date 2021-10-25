@@ -35,3 +35,13 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+public/*/*
+public/back.png
+public/bg.jpg
+public/robots.txt
+public/sitemap.xml
+public/vercel.svg
+public/sitemap.xml
+public/bg.jpg
+public/sitemap.xml
+public/sitemap.xml
