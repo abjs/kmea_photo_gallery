@@ -71,6 +71,7 @@ const data = {
     fname: "Sabreen Rafeek",
     lname: "Sabreen",
     dept: "Mechanical",
+    NumberOfPhotos: 2,
   },
   beegum: {
     fname: "Fathima",
