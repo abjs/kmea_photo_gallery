@@ -19,8 +19,8 @@ export default function Home() {
           {Object.keys(data).map((name) => (
             <div key={cuid()}>
               <Link href={`/${name}`}>
-                <a className="">
-                  <Fade>
+                <a >
+                <Fade cascade delay={500} className="">
                     <img
                       src={`/${name}/1.jpg`}
                       alt={`${name} 1 th pic`}
@@ -32,7 +32,7 @@ export default function Home() {
               <Link href={`/${name}`}>
                 <a className="">
                   <Zoom cascade delay={500}>
-                    <p className="animate-pulse p-2 mt-2 bg-black text-xl font-bold text-white uppercase shadow-xl rounded-xl text-center hover:animate-bounce">
+                    <p className="animate-pulse p-2 mt-2 bg-black text-xl font-bold text-white uppercase shadow-xl rounded-xl text-center">
                       {name}
                     </p>
                   </Zoom>

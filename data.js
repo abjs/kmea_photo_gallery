@@ -1,14 +1,14 @@
 const data = {
+  abin: {
+    fname: "abin",
+    lname: "joseph",
+    dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
   anju: {
     fname: "anju",
     lname: "gopan",
     dept: "CSE",
-    NumberOfPhotos: 2,
-  },
-  riswana: {
-    fname: "Riswana",
-    lname: "E A",
-    dept: "computer science and engineering",
     NumberOfPhotos: 2,
   },
   poojalakshmi: {
@@ -23,16 +23,41 @@ const data = {
     dept: "Computer science and engineering",
     NumberOfPhotos: 2,
   },
-  thaniya: {
-    fname: "thaniya",
-    lname: "azhar",
-    dept: "vidyodaya",
+  pooja: {
+    fname: "pooja",
+    lname: "mp",
+    dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  athira: {
+    fname: "athira",
+    lname: "menon",
+    dept: "Computer science and engineering",
     NumberOfPhotos: 2,
   },
   jeethu: {
     fname: "jeethu",
     lname: "joshy",
     dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+
+  kashish: {
+    fname: "kashish",
+    lname: "s shah",
+    dept: "Computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  riswana: {
+    fname: "Riswana",
+    lname: "E A",
+    dept: "computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  thaniya: {
+    fname: "thaniya",
+    lname: "azhar",
+    dept: "vidyodaya",
     NumberOfPhotos: 2,
   },
   ashigha: {
@@ -48,7 +73,6 @@ const data = {
     dept: "Computer Science",
     NumberOfPhotos: 2,
   },
-
   roushath: {
     fname: " Roushath",
     lname: " Beevi K S",
@@ -58,6 +82,18 @@ const data = {
   rizwan: {
     fname: "Rizwan",
     lname: " K Rahim",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
+  salma: {
+    fname: "Salma",
+    lname: "",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
+  rasha: {
+    fname: "Rasha",
+    lname: "Shajahan",
     dept: "CSE",
     NumberOfPhotos: 2,
   },
@@ -133,13 +169,17 @@ const data = {
     dept: "IT",
     NumberOfPhotos: 2,
   },
-  Farhana: {
+  farhana: {
     fname: "Farhana",
     lname: "shirin  K N",
     dept: "CSE",
     NumberOfPhotos: 2,
   },
-  
+  sandra: {
+    fname: "Sandra",
+    lname: "Santhosh",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+ },
 };
-
 export default data;
