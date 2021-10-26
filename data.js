@@ -91,6 +91,12 @@ const data = {
     dept: "CSE",
     NumberOfPhotos: 2,
   },
+  rasha: {
+    fname: "Rasha",
+    lname: "Shajahan",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
   suroor: {
     fname: "M S",
     lname: "Mohammed",
