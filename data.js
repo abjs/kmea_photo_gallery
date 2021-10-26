@@ -85,6 +85,12 @@ const data = {
     dept: "CSE",
     NumberOfPhotos: 2,
   },
+  salma: {
+    fname: "Salma",
+    lname: "",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
   suroor: {
     fname: "M S",
     lname: "Mohammed",
