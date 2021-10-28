@@ -86,8 +86,8 @@ const data = {
     NumberOfPhotos: 2,
   },
   salma: {
-    fname: "Salma",
-    lname: "",
+    fname: "Salmath",
+    lname: "K",
     dept: "CSE",
     NumberOfPhotos: 2,
   },
@@ -109,22 +109,10 @@ const data = {
     dept: "Alumni",
     NumberOfPhotos: 2,
   },
-  pooja: {
-    fname: "pooja",
-    lname: "mp",
-    dept: "Computer science and engineering",
-    NumberOfPhotos: 2,
-  },
   shebeeb: {
     fname: "Muhammed",
     lname: "Shebeeb K M",
     dept: "Electrical and Electronics Engineering",
-    NumberOfPhotos: 2,
-  },
-  abin: {
-    fname: "abin",
-    lname: "joseph",
-    dept: "Computer science and engineering",
     NumberOfPhotos: 2,
   },
   varun: {
