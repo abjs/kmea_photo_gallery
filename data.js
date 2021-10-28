@@ -121,6 +121,12 @@ const data = {
     dept: "Electrical and Electronics Engineering",
     NumberOfPhotos: 2,
   },
+  sandra: {
+    fname: "Sandra",
+    lname: "Santhosh",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+ },
   varun: {
     fname: "Varun",
     lname: "Madhu",
@@ -157,11 +163,6 @@ const data = {
     dept: "IT",
     NumberOfPhotos: 2,
   },
-  sandra: {
-    fname: "Sandra",
-    lname: "Santhosh",
-    dept: "CSE",
-    NumberOfPhotos: 2,
- },
+
 };
 export default data;
