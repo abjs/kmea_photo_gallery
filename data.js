@@ -85,6 +85,18 @@ const data = {
     dept: "CSE",
     NumberOfPhotos: 2,
   },
+  salma: {
+    fname: "Salmath",
+    lname: "K",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
+  rasha: {
+    fname: "Rasha",
+    lname: "Shajahan",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
   suroor: {
     fname: "M S",
     lname: "Mohammed",
@@ -103,24 +115,18 @@ const data = {
     dept: "Alumni",
     NumberOfPhotos: 2,
   },
-  pooja: {
-    fname: "pooja",
-    lname: "mp",
-    dept: "Computer science and engineering",
-    NumberOfPhotos: 2,
-  },
   shebeeb: {
     fname: "Muhammed",
     lname: "Shebeeb K M",
     dept: "Electrical and Electronics Engineering",
     NumberOfPhotos: 2,
   },
-  abin: {
-    fname: "abin",
-    lname: "joseph",
-    dept: "Computer science and engineering",
+  sandra: {
+    fname: "Sandra",
+    lname: "Santhosh",
+    dept: "CSE",
     NumberOfPhotos: 2,
-  },
+ },
   varun: {
     fname: "Varun",
     lname: "Madhu",
@@ -158,15 +164,10 @@ const data = {
     NumberOfPhotos: 2,
   },
   albin: {
-
     fname: "Albin",
-
     lname: "Sunny",
-
     dept: "Computer Science",
-
     NumberOfPhotos: 2,
-
   },
 };
 export default data;
