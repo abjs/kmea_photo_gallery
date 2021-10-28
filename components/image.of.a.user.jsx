@@ -18,7 +18,7 @@ export default function UserImageComponent({ name }) {
                         key={cuid()}
                         src={`/${name}/${i}.jpg`}
                         alt={`${name} images ${i}`}
-                        className="w-full rounded-[50px] h-full xl:h-[80vh] object-contain"
+                        className="w-full rounded-[50px] h-full xl:h-[80vh] object-cover"
                     />
                 </Fade>
             );
@@ -37,7 +37,7 @@ export default function UserImageComponent({ name }) {
             <div className="text-center flex justify-between capitalize w-full bg-black p-4 text-white font-medium  h-[10vh] text-xl">
                 <Link href="/">
                     <a className="w-16  h-16 bg-white">
-                        <img src="/back.png" alt="Back arrow" className="h-14" />
+                        <img src="/back.png" alt="Back arrow" className="h-14"  />
                     </a>
                 </Link>
                 <div className="pl-2">

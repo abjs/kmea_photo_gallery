@@ -24,7 +24,7 @@ export default function Home() {
                     <img
                       src={`/${name}/1.jpg`}
                       alt={`${name} 1 th pic`}
-                      className=" h-72 object-contain self-center  shadow-2xl  rounded-[40px]"
+                      className="self-center shadow-2xl h-72 object-cover object-center rounded-[40px]"
                     />
                   </Fade>
                 </a>

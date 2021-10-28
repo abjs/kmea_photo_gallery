@@ -1,10 +1,4 @@
 const data = {
-  abin: {
-    fname: "abin",
-    lname: "joseph",
-    dept: "Computer science and engineering",
-    NumberOfPhotos: 2,
-  },
   anju: {
     fname: "anju",
     lname: "gopan",
@@ -103,6 +97,18 @@ const data = {
     dept: "Industrial Instrumentation and Automation",
     NumberOfPhotos: 2,
   },
+  albin: {
+    fname: "Albin",
+    lname: "Sunny",
+    dept: "Computer Science",
+    NumberOfPhotos: 2,
+  },
+  sandra: {
+    fname: "Sandra",
+    lname: "Santhosh",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+ },
   sabreen: {
     fname: "Sabreen Rafeek",
     lname: "Sabreen",
@@ -121,12 +127,6 @@ const data = {
     dept: "Electrical and Electronics Engineering",
     NumberOfPhotos: 2,
   },
-  sandra: {
-    fname: "Sandra",
-    lname: "Santhosh",
-    dept: "CSE",
-    NumberOfPhotos: 2,
- },
   varun: {
     fname: "Varun",
     lname: "Madhu",
@@ -137,6 +137,12 @@ const data = {
     fname: "mansoor",
     lname: "majeed",
     dept: "computer science and engineering",
+    NumberOfPhotos: 2,
+  },
+  abin: {
+    fname: "abin",
+    lname: "joseph",
+    dept: "Computer science and engineering",
     NumberOfPhotos: 2,
   },
   nujoom: {
@@ -162,12 +168,6 @@ const data = {
     lname: "Santhosh",
     dept: "IT",
     NumberOfPhotos: 2,
-  },
-  albin: {
-    fname: "Albin",
-    lname: "Sunny",
-    dept: "Computer Science",
-    NumberOfPhotos: 2,
-  },
+  }
 };
 export default data;
