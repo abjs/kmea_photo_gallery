@@ -91,6 +91,12 @@ const data = {
     dept: "CSE",
     NumberOfPhotos: 2,
   },
+  rasha: {
+    fname: "Rasha",
+    lname: "Shajahan",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+  },
   suroor: {
     fname: "M S",
     lname: "Mohammed",
@@ -151,5 +157,11 @@ const data = {
     dept: "IT",
     NumberOfPhotos: 2,
   },
+  sandra: {
+    fname: "Sandra",
+    lname: "Santhosh",
+    dept: "CSE",
+    NumberOfPhotos: 2,
+ },
 };
 export default data;
