@@ -163,6 +163,11 @@ const data = {
     dept: "IT",
     NumberOfPhotos: 2,
   },
-
+  albin: {
+    fname: "Albin",
+    lname: "Sunny",
+    dept: "Computer Science",
+    NumberOfPhotos: 2,
+  },
 };
 export default data;
