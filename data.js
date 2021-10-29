@@ -174,6 +174,12 @@ const data = {
     lname: "Santhosh",
     dept: "IT",
     NumberOfPhotos: 2,
-  }
+  },
+  shanavas: {
+    fname: "Shanavas",
+    lname: "KS",
+    dept: "Computer",
+    NumberOfPhotos: 2,
+  }, 
 };
 export default data;
