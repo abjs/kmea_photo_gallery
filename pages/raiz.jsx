@@ -1,8 +1,8 @@
 import UserImageComponent from "../components/image.of.a.user";
-export default function Shebeeb() {
+export default function Raiz() {
   return (
     <div>
-      <UserImageComponent name="shebeeb" />
+      <UserImageComponent name="raiz" />
     </div>
   );
 }

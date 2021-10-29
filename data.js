@@ -133,6 +133,12 @@ const data = {
     dept: "Mechanical",
     NumberOfPhotos: 1,
   },
+  raiz: {
+    fname: "Raiz",
+    lname: "Antony",
+    dept: "Mechanical",
+    NumberOfPhotos: 2,
+  },
   mansoor: {
     fname: "mansoor",
     lname: "majeed",
